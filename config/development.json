@@ -1,6 +1,0 @@
-{
-    "nombre" : "Api Rest Express",
-    "ConfigDB":{
-        "host":"prueba-db-server"
-    }
-}
